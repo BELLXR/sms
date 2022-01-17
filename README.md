@@ -6,7 +6,7 @@ https://youtu.be/NbX2bW1jQAI
 
 🤭ติดตั้งสคริปต์🤭
 
-https://github.com/earthza001/sms
+git clone https://github.com/earthza001/sms
 
 cd sms
 
